@@ -1,0 +1,11 @@
+{
+  "name": "@thecosmicblock/connecto",
+  "version": "1.0.0",
+  "description": "",
+  "author": {
+    "name": "The Cosmic Blocks Lab",
+    "email": "hello@thecosmicblock.com",
+    "url": "https://thecosmicblock.com/"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,1 @@
+git submodule update --init --recursive && cd Connecto-smart-contract-sdk && git pull origin master && cd ..
